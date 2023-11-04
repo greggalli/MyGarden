@@ -1,1 +1,1 @@
-# gardenplanner
+# MyGarden
